@@ -1,4 +1,4 @@
-# C\#
+# C Sharp
 
 # About
 

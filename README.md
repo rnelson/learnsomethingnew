@@ -18,4 +18,5 @@ This set of links is MIT licensed. Individual resources linked to from here belo
 
 + [Ada](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/ada.md)
 + [C/C++](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/cpp.md)
++ [C#](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/csharp.md)
 + [Python](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/python.md)

@@ -4,7 +4,7 @@
 
 C# is Microsoft's attempt to build a language that doesn't suck. ;-) It shares a lot with Java, but removes a lot of the annoyances of working with Java.
 
-The one huge downside is, while [Mono](http://www.mono-project.com) exists, it's far from complete so anything .NET is often tied to Windows. With Microsoft open sourcing parts of the .NET stack, server-side ASP.NET programming can be done on Linux/OS X, but desktop apps written in C# and VB.NET are likely to be buggy or not run at all on anything but Windows.
+The one huge downside is, while [Mono](http://www.mono-project.com) exists, it's far from complete so anything .NET is often tied to Windows. With Microsoft open sourcing parts of the .NET stack, server-side ASP.NET programming can be done on Linux/OS X, but desktop apps written in C# and [VB.NET](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/vb.md) are likely to be buggy or not run at all on anything but Windows.
 
 My list of resources is pretty small here. While first learning the language, I purchased some books and learned primarily from those. The few C#-related bookmarks I have are for advanced topics that I needed help with.
 
@@ -14,7 +14,7 @@ My list of resources is pretty small here. While first learning the language, I 
 
 ## Software
 
-+ [Visual Studio](http://www.visualstudio.com): the Community edition of Visual Studio provides a free Windows IDE for [C/C++](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/cpp.md), C#, and Visual Basic.
++ [Visual Studio](http://www.visualstudio.com): the Community edition of Visual Studio provides a free Windows IDE for [C/C++](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/cpp.md), C#, and [Visual Basic](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/vb.md).
 + [SharpDevelop](http://www.icsharpcode.net/OpenSource/SD/Default.aspx): an open source clone of older versions of Visual Studio. I used this until I got a free copy of Visual Studio from school (back when no Express or Community editions existed)
 
 # Paid Resources

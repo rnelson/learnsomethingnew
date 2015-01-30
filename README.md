@@ -30,3 +30,4 @@ In addition to my lists, I've used [Added Bytes' cheat sheets](https://www.added
 + [PHP](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/php.md)
 + [Python](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/python.md)
 + [Ruby](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/ruby.md)
++ [Visual Basic (6, .NET)](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/vb.md)

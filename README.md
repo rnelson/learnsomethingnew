@@ -25,4 +25,5 @@ This set of links is MIT licensed. Individual resources linked to from here belo
 + [Objective-C](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/objc.md)
 + [Pascal](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/pascal.md) (incl. Delphi, Object Pascal)
 + [Perl](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/perl.md)
++ [PHP](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/php.md)
 + [Python](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/python.md)

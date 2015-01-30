@@ -14,6 +14,7 @@ Most of my bookmarks are from my first time writing iOS (so long ago that it was
 
 ## Software
 
++ [PLEAC-Objective-C](http://pleac.sourceforge.net/pleac_objective-c/index.html): Perl Cookbook, but for Objective-C.
 + [5 Free Resources for iPhone App Development](http://johntwang.com/blog/2009/06/09/5-free-resources-for-iphone-app-development/): useful resources for building on iOS.
 
 # Paid Resources

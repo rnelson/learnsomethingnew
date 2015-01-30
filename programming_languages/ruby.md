@@ -14,6 +14,7 @@ Most of my personal projects these days are written in Ruby. Like Python, the la
 
 ## Books/Tutorials
 
++ [PLEAC-Ruby](http://pleac.sourceforge.net/pleac_ruby/index.html): Perl Cookbook, but for Ruby.
 + [why's (Poignent) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/): an excellent starting point for learning Ruby.
 
 ## Software

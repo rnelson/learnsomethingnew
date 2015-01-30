@@ -16,7 +16,8 @@ Going through my old bookmarks, I discovered that I had very few beginner links 
 
 ## Books/Tutorials
 
-+ [PLEAC for C++](http://pleac.sourceforge.net/pleac_c++/index.html): a cookbook giving examples of doing things in C++. The book exists [for a variety of languages](http://pleac.sourceforge.net).
++ [PLEAC-C/Posix/GNU](http://pleac.sourceforge.net/pleac_cposix/index.html): Perl Cookbook, but for C.
++ [PLEAC-C++/STL/Boost](http://pleac.sourceforge.net/pleac_c++/index.html): Perl Cookbook, but for C++.
 + [The C Book](http://publications.gbdirect.co.uk/c_book/): an out of print book on C from 1991. While it obviously doesn't cover the latest standards, it's still an excellent resource.
 + [C Programming and C++ Programming](http://www.cprogramming.com): this site covers much of what I ever needed to know when learning C and C++. It's an excellent reference. [The C tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html) and [the C++ tutorial](http://www.cprogramming.com/tutorial/c++-tutorial.html) may work well as a beginner resource.
 + [C++ Reference](http://en.cppreference.com/w/): another great site to use as a reference for looking up specific things.

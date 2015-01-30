@@ -12,6 +12,7 @@ Okay, fine. While PHP certainly has **many** issues, it is still one of the easi
 
 ## Books/Tutorials
 
++ [PLEAC-PHP](http://pleac.sourceforge.net/pleac_php/index.html): Perl Cookbook, but for PHP.
 + [PHP: a fractal of bad design](http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/): criticism of many aspects of the language and its standard library.
 
 # Paid Resources

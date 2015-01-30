@@ -12,6 +12,7 @@ The language is [highly criticized](https://en.wikipedia.org/wiki/Perl#Criticism
 
 ## Books/Tutorials
 
++ [PLEAC](http://pleac.sourceforge.net/pleac_perl/index.html): Perl Cookbook
 + [Take Control of Your Programming with Modern Perl](http://onyxneon.com/books/modern_perl/): this book covers newer features in Perl.
 
 ## Software

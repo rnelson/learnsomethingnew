@@ -8,11 +8,16 @@ Notable, a lot of early Apple development was done in Pascal, and [Turbo Pascal]
 
 Delphi is a commercial variant of Object Pascal, the object-oriented version of Pascal. While it only runs on Windows, it can currently compile for Windows, OS X, iOS, and Android. I occasionally run across job listings for it, but [online communities](https://www.reddit.com/r/delphi/) are pretty active, telling me there must be quite a few people out there still working in it.
 
-Like [C#](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/csharp.md), most of what I learned was from an old Delphi book. I've written some Pascal lately, but I simply search for how to do a specific thing (e.g., "Pascal for loop") and move on, so I don't have any non-software resources to list.
+Like [C#](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/csharp.md), most of what I learned was from an old Delphi book. I've written some Pascal lately, but I simply search for how to do a specific thing (e.g., "Pascal for loop") and move on, so I don't have many non-software resources to list.
 
 Read more about [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)), [Object Pascal](https://en.wikipedia.org/wiki/Object_Pascal), and [Delphi](https://en.wikipedia.org/wiki/Delphi_(programming_language)) at Wikipedia.
 
 # Free Resources
+
+## Books/Tutorials
+
++ [FunctionX's Object Pascal tutorial](http://www.functionx.com/objectpascal/): a tutorial covering Object Pascal. The tutorial was written with Delphi in mind, but I suspect most of it would work out of the box with Free Pascal.
++ [Pascal wikibook](https://en.wikibooks.org/wiki/Pascal_Programming): community-written book on Pascal. While not as complete as other wikibooks, it still covers much of the language.
 
 ## Software
 

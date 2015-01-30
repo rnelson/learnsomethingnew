@@ -19,6 +19,7 @@ This set of links is MIT licensed. Individual resources linked to from here belo
 + [Ada](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/ada.md)
 + [C/C++](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/cpp.md)
 + [C#](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/csharp.md)
++ [Fortran](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/fortran.md)
 + [Java](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/java.md)
 + [JavaScript](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/javascript.md)
 + [Objective-C](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/objc.md)

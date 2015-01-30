@@ -25,4 +25,4 @@ The links below are simply a collection of my bookmarks.
 
 + [GNAT](http://libre.adacore.com): one of the few big Ada compilers. Based on GCC, there's a free open source version. Note that [there may be licensing issues](http://gnuada.sourceforge.net/pmwiki.php/Main/GMGPL) (unconfirmed).
 + [GNU Ada](http://gnuada.sourceforge.net): Provides [downloads](http://sourceforge.net/projects/gnuada/files/) of GCC with Ada support, like GNAT, for a variety of platforms. Unlike GNAT, the download includes not only the Ada compiler but also [C/C++](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/cpp.md), [Objective-C](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/objc.md), Objective-C++, and [Fortran](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/fortran.md).
-+ [AdaGIDE](http://adagide.martincarlisle.com/index.html): a small Ada IDE for WIndows.
++ [AdaGIDE](http://adagide.martincarlisle.com/index.html): a small Ada IDE for Windows.

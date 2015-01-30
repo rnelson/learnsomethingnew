@@ -14,6 +14,8 @@ This set of links is MIT licensed. Individual resources linked to from here belo
 
 # Somethings To Learn
 
+In addition to my lists, I've used [Added Bytes' cheat sheets](https://www.addedbytes.com/cheat-sheets/) for many things over the years.
+
 ## Programming Languages
 
 + [Ada](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/ada.md)

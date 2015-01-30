@@ -31,6 +31,6 @@ In addition to my lists, I've used [Added Bytes' cheat sheets](https://www.added
 + [PHP](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/php.md)
 + [Python](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/python.md)
 + [Ruby](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/ruby.md)
-+ [Visual Basic (6, .NET)](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/vb.md)
++ [Visual Basic](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/vb.md)
 
 Where available, I've added a link to the appropriate [PLEAC](http://pleac.sourceforge.net) page for each language. PLEAC, or Programming Language Examples Alike Cookbook, follows the [Perl Cookbook](http://www.oreilly.com/catalog/cookbook) in a number of other programming languages.

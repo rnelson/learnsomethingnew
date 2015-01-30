@@ -22,3 +22,7 @@ Despite current trends of telling people not to include jQuery on everything, I 
 
 + [jQuery](https://jquery.com), [MooTools](http://mootools.net) and [Prototype](http://prototypejs.org): libraries meant to simplify working with JavaScript.
 + [AngularJS](https://angularjs.org): brings the [MVC pattern](https://en.wikipedia.org/wiki/Model–view–controller) to frontend JavaScript development.
+
+# Paid Resources
+
++ [WebStorm](https://www.jetbrains.com/webstorm/): JetBrains' JS/HTML/CSS IDE.

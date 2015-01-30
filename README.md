@@ -17,4 +17,5 @@ This set of links is MIT licensed. Individual resources linked to from here belo
 ## Programming Languages
 
 + [Ada](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/ada.md)
++ [C/C++](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/cpp.md)
 + [Python](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/python.md)

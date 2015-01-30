@@ -12,13 +12,15 @@ This set of links is MIT licensed. Individual resources linked to from here belo
 
 # Somethings To Learn
 
-In addition to my lists, I've used [Added Bytes' cheat sheets](https://www.addedbytes.com/cheat-sheets/) for many things over the years.
-
 ## Operating Systems
+
+While I do use Windows for work and the occasional project, almost everything else I do is on some form of UNIX-like system. The [Sysadmin's Unixersal Translator](http://bhami.com/rosetta.html) is an incredibly useful tool for finding the right command to do something on various UNIXes/UNIX-like systems.
 
 + [FreeBSD](https://github.com/rnelson/learnsomethingnew/blob/master/operating_systems/freebsd.md)
 
 ## Programming Languages
+
+In addition to my lists, I've used [Added Bytes' cheat sheets](https://www.addedbytes.com/cheat-sheets/) for many things over the years.
 
 + [Ada](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/ada.md)
 + [C/C++](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/cpp.md)

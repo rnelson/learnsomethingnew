@@ -21,3 +21,4 @@ Of the three most popular BSDs (FreeBSD, NetBSD, and OpenBSD), FreeBSD is often 
 ## Software
 
 + [FreeBSD](https://www.freebsd.org/where.html)
++ [PC-BSD](http://www.pcbsd.org): a variant of FreeBSD that updates fairly quickly after new FreeBSD releases. It has some nice features on top of the base system (PBIs, [Warden](http://wiki.pcbsd.org/index.php/Warden®/10.1/en)) and is tailored to desktop use out of the box. My local development server runs TrueOS, which is the server variant of PC-BSD (no GUI by default).

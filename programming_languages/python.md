@@ -18,6 +18,10 @@ Every major OS except Windows either ships with Python or makes it available in 
 
 + [Learn Python the Hard Way](http://learnpythonthehardway.org/book/): this is an excellent book for learning Python. It starts out with basic language features and goes on to advanced topics like string parsing (ex 49), building games (ex 45), and doing web programming (ex 50-52). The author (Zed A. Shaw) makes it available for free both as a try-before-you-buy and for those who cannot afford to pay. It is also available for purchase, which includes a PDF copy of the book, videos for each exercise, and the option to receive help via email from Shaw.
 + [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html): I don't have a whole lot to say about this one. It's a standard beginner book for a language, the kind of book that I would buy to quickly pick up a language now (knowing so many others and being able to skim over the first many chapters and just focusing on syntax). In addition to reading it online and buying the physical copy, you can freely download [the PDF](http://www.greenteapress.com/thinkpython/thinkpython.pdf), great for those who read on tablets and e-readers. The book's page also links to a modified copy for learning Python 3.
++ [Dive Into Python](http://www.diveintopython.net): downloadable book on Python 2.
++ [Dive Into Python 3](http://www.diveinto.org/python3/): the follow-up to the above book, this time tailor to Python 3.
++ [Python Basics](http://www.astro.ufl.edu/~warner/prog/python.html): meant for programmers with experience in other languages, this page is somewhat hard to read but covers the basic syntax fairly well, making it easy to jump right in and start writing Python.
++ [The Python Tutorial](https://docs.python.org/2/tutorial/index.html): direct from the developers, this extensive tutorial covers Python 2. It is also available in [a Python 3 version](https://docs.python.org/3/tutorial/index.html).
 
 ## Software
 

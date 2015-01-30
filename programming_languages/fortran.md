@@ -41,7 +41,3 @@ If you find yourself writing Fortran code, I strongly recommend Fortran 90 and n
 + [Fortran on a Mac](http://www.macinchem.org/reviews/fortran/fortran.php): a list of Fortran compilers and libraries commonly used on OS X.
 + [Clive Page's list of Fortran Resources](http://www.star.le.ac.uk/~cgp/fortran.html): compilers, tutorials, and small tips for Fortran (listed above as well).
 + [Open Watcom](http://www.openwatcom.org/index.php/Main_Page): open sourced (formerly commercial) [C/C++](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/cpp.md) and Fortran 77 compilers for DOS, OS/2, Windows, and Linux.
-
-# Paid Resources
-
-+ [Practical Programming](https://pragprog.com/book/gwpy2/practical-programming): this is a great book for learning Python by writing cool things. The first few chapters cover the basics of the language, and after that it moves on to interesting real-world examples that teach you additional features as you go. **Note:** I purchased [the first edition](https://pragprog.com/book/gwpy/practical-programming), which is no longer in print. The second edition is tailored to Python 3; at present, you can get a copy of the first edition by purchasing the second and contacitng support.

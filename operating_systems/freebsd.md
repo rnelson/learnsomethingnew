@@ -17,6 +17,7 @@ Of the three most popular BSDs (FreeBSD, NetBSD, and OpenBSD), FreeBSD is often 
 + [FreeBSD Wiki](https://wiki.freebsd.org): the official wiki for the FreeBSD project.
 + [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/): an old book, but much of the information is probably still relevant.
 + [FreeBSD CheatSheet](http://www.cambus.net/freebsd-cheatsheet/): appropriately named, it's a cheat sheet of common commands.
++ [BSD For Linux Users](http://www.over-yonder.net/~fullermd/rants/bsd4linux/01): a helpful guide for people familiar with Linux who are trying FreeBSD.
 
 ## Software
 

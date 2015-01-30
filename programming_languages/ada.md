@@ -20,3 +20,9 @@ The links below are simply a collection of my bookmarks.
 + [PLEAC Ada](http://pleac.sourceforge.net/pleac_ada/index.html): a cookbook giving examples of doing things in Ada. The book exists [for a variety of languages](http://pleac.sourceforge.net).
 + [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) wikibook: book written by the community covering the basic language, third party libraries, and more.
 + [Ada 95 Tutorial](http://www.infres.enst.fr/~pautet/Ada95/a95list.htm): another book covering the language, including advanced features.
+
+## Software
+
++ [GNAT](http://libre.adacore.com): one of the few big Ada compilers. Based on GCC, there's a free open source version. Note that [there may be licensing issues](http://gnuada.sourceforge.net/pmwiki.php/Main/GMGPL) (unconfirmed).
++ [GNU Ada](http://gnuada.sourceforge.net): Provides [downloads](http://sourceforge.net/projects/gnuada/files/) of GCC with Ada support, like GNAT, for a variety of platforms. Unlike GNAT, the download includes not only the Ada compiler but also C, C++, Objective-C, Objective-C++, and Fortran.
++ [AdaGIDE](http://adagide.martincarlisle.com/index.html): a small Ada IDE for WIndows.

@@ -24,6 +24,7 @@ In addition to my lists, I've used [Added Bytes' cheat sheets](https://www.added
 + [Fortran](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/fortran.md)
 + [Java](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/java.md)
 + [JavaScript](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/javascript.md)
++ [LaTeX (and TeX)](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/latex.md)
 + [Objective-C](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/objc.md)
 + [Pascal](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/pascal.md) (incl. Delphi, Object Pascal)
 + [Perl](https://github.com/rnelson/learnsomethingnew/blob/master/programming_languages/perl.md)

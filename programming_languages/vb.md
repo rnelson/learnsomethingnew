@@ -20,6 +20,8 @@ Shortly after starting college, I had learned some C++ and bought a PowerBook, s
 
 Spoiler alert: if you spent a ton of hours learning to program using VB, that will _not_ automatically make it fun to work with in the real world after you've used many better languages. Maintaining a very large, very old, very not-properly-architected VB program is kind of painful, even with nostalgia. ;-)
 
+Don't write VB.NET if you can avoid it. It's not really any easier than C#; in fact, once you know both, a lot of stuff is harder to work with in VB.NET. More importantly, it's very difficult to find help on a lot of newer topics (I'm looking at you, WPF) in VB.NET as much of the industry seems to have moved on to C#.
+
 Read more about [classic Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic) and [VB.NET](https://en.wikipedia.org/wiki/Visual_Basic_.NET) at Wikipedia.
 
 # Free Resources

@@ -4,9 +4,7 @@
 
 [Python](http://python.org) is a [scripting language](https://en.wikipedia.org/wiki/Scripting_language) first released in 1991. While excellent as a general purpose language, it seems to be popular for data analysis, system administration (hello, [Red Hat](http://redhat.com)!), and web programming.
 
-At present, two major versions are actively being worked on (v2, v3). Python 3, formerly known as [Python 3000](https://www.python.org/dev/peps/pep-3000/) broke compatibility. Some, but not all, scripts written for Python 2 will not run in Python 3 without modifications. Additionally, scripts tailored to Python 3 will not necessarily run in Python 2.
-
-Once you know one version, picking up the other is really easy. Given that 2.x is far more common still and a lot of software will not yet run in 3, I'd recommend starting with 2. For more information, see the Python wiki's article, [Should I use Python 2 or Python 3 for my development activity?](https://wiki.python.org/moin/Python2orPython3)
+At present, two major versions are actively being worked on (v2, v3). Python 3, formerly known as [Python 3000](https://www.python.org/dev/peps/pep-3000/) broke compatibility. Some, but not all, scripts written for Python 2 will not run in Python 3 without modifications. Additionally, scripts tailored to Python 3 will not necessarily run in Python 2. For more information, see the Python wiki's article, [Should I use Python 2 or Python 3 for my development activity?](https://wiki.python.org/moin/Python2orPython3)
 
 Every major OS except Windows either ships with Python or makes it available in their native package manager. Additionally, it's available [on python.org's download page](https://www.python.org/downloads/) and [from ActiveState](http://www.activestate.com/activepython/downloads). (ActiveState provides builds for Python, Perl, and Tcl intended for commercial use, but offer a community edition for non-production use. I have not used any of their software other than ActivePerl, and that was back in the 1990s.)
 
@@ -16,6 +14,7 @@ Every major OS except Windows either ships with Python or makes it available in 
 
 ## Books/Tutorials
 
++ [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/): a guide covering all kinds of best practices for use with Python developers.
 + [PLEAC-Python](http://pleac.sourceforge.net/pleac_python/index.html): Perl Cookbook, but for Python.
 + [Learn Python the Hard Way](http://learnpythonthehardway.org/book/): this is an excellent book for learning Python. It starts out with basic language features and goes on to advanced topics like string parsing (ex 49), building games (ex 45), and doing web programming (ex 50-52). The author (Zed A. Shaw) makes it available for free both as a try-before-you-buy and for those who cannot afford to pay. It is also available for purchase, which includes a PDF copy of the book, videos for each exercise, and the option to receive help via email from Shaw.
 + [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html): I don't have a whole lot to say about this one. It's a standard beginner book for a language, the kind of book that I would buy to quickly pick up a language now (knowing so many others and being able to skim over the first many chapters and just focusing on syntax). In addition to reading it online and buying the physical copy, you can freely download [the PDF](http://www.greenteapress.com/thinkpython/thinkpython.pdf), great for those who read on tablets and e-readers. The book's page also links to a modified copy for learning Python 3.

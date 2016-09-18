@@ -15,6 +15,7 @@ Of the three most popular BSDs (FreeBSD, NetBSD, and OpenBSD), FreeBSD is often 
 + [A FreeBSD Desktop How-to](https://cooltrainer.org/a-freebsd-desktop-howto/): start-to-finish instructions on installing FreeBSD on your desktop.
 + [FreeBSD Handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/): one of the best pieces of documentation I've run across. It doesn't go as far in depth as the above how-to for setting up a modern desktop environment, but all of the basics and many advanced topics are covered.
 + [FreeBSD Wiki](https://wiki.freebsd.org): the official wiki for the FreeBSD project.
++ [FreeBSD - a lesson in poor defaults](https://vez.mrsk.me/freebsd-defaults.txt): a post giving some suggestions on improving a vanilla FreeBSD install.
 + [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/): an old book, but much of the information is probably still relevant.
 + [FreeBSD CheatSheet](http://www.cambus.net/freebsd-cheatsheet/): appropriately named, it's a cheat sheet of common commands.
 + [BSD For Linux Users](http://www.over-yonder.net/~fullermd/rants/bsd4linux/01): a helpful guide for people familiar with Linux who are trying FreeBSD.

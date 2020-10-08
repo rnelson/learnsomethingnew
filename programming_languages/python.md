@@ -4,7 +4,7 @@
 
 [Python](http://python.org) is a [scripting language](https://en.wikipedia.org/wiki/Scripting_language) first released in 1991. While excellent as a general purpose language, it seems to be popular for data analysis, system administration (hello, [Red Hat](http://redhat.com)!), and web programming.
 
-Python 3, formerly known as [Python 3000](https://www.python.org/dev/peps/pep-3000/) broke compatibility so some, but not all, scripts written for Python 2 will not run in Python 3 without modifications. Don't use Python 2. Just don't do it.
+Python 3, formerly known as [Python 3000](https://www.python.org/dev/peps/pep-3000/), broke compatibility so many scripts written for Python 2 will not run in Python 3 without modifications. That said, don't use Python 2. Just don't do it.
 
 Every major OS except Windows either ships with Python or makes it available in their native package manager. Additionally, it's available [on python.org's download page](https://www.python.org/downloads/) and [from ActiveState](http://www.activestate.com/activepython/downloads). (ActiveState provides builds for Python, Perl, and Tcl intended for commercial use, but offer a community edition for non-production use. I have not used any of their software other than ActivePerl, and that was back in the 1990s.) [Anaconda](https://www.anaconda.com/products/individual) is popular, but I prefer to just install the latest version and use [virtualenv](https://virtualenv.pypa.io/en/stable/) to handle the packages.
 
